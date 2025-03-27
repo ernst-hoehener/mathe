@@ -1,7 +1,7 @@
 Die Themen sind als [Diskussionen](https://github.com/ernst-hoehener/math/discussions) organisiert:
 
 ### Geometrie
-
+- [Notizen zur Dreiecks-Berechnung](https:://github.com/ernst-hoehener/GeoDreieck.pdf)
 - [Pythagoras - Grundwissen rechtwinkliges Dreieck](https://github.com/ernst-hoehener/math/discussions/3)
 - [Der Satz von Mene Ceva - Geometrische Addition zweier Brüche](https://github.com/ernst-hoehener/math/discussions/1)
 - [Der Satz von Pappus - Beweis-Versuche](https://github.com/ernst-hoehener/math/discussions/4)
