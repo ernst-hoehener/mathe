@@ -2,7 +2,7 @@ Die Themen sind als [Diskussionen](https://github.com/ernst-hoehener/math/discus
 
 ### Geometrie
 - [Paul Eigenmann: Sekundarschullehrer](https://github.com/ernst-hoehener/mathe/blob/main/GeoPaulEigenmann.pdf)
-- [Geometrische Denkaufgaben: 2.Teil, Nr.9](https:://github.com/ernst-hoehener/GeoEigenmann9.pdf)
+- [Geometrische Denkaufgaben: 2.Teil, Nr.9](https://github.com/ernst-hoehener/mathe/blob/main/GeoEigenmann9.pdf)
 - [Notizen zur Dreiecks-Berechnung](https:://github.com/ernst-hoehener/GeoDreieck.pdf)
 - [Pythagoras - Grundwissen rechtwinkliges Dreieck](https://github.com/ernst-hoehener/math/discussions/3)
 - [Der Satz von Steward für Dreiecks-Transversalen](https://github.com/ernst-hoehener/GeoSteward.pdf)
