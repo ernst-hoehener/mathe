@@ -6,7 +6,8 @@
 - [Notizen zur Dreiecks-Berechnung](https://github.com/ernst-hoehener/mathe/blob/main/GeoDreieck.pdf)
 - [Pythagoras - Grundwissen rechtwinkliges Dreieck](https://github.com/ernst-hoehener/mathe/blob/main/GeoDreieck.pdf)
 - [Der Satz von Steward für Dreiecks-Transversalen](https://github.com/ernst-hoehener/mathe/blob/main/GeoSteward.pdf)
-- [Der Satz von Mene Ceva - Geometrische Addition zweier Brüche](https://github.com/ernst-hoehener/mathe/blob/main/GeoMeneCeva.pdf)
+- [Der Satz von Mene Ceva - Geometrische Addition zweier Brüche]
+  (https://github.com/ernst-hoehener/mathe/blob/main/GeoMeneCeva.pdf)
 - [Der Satz von Pappus - Beweis-Versuche](https://github.com/ernst-hoehener/mathe/blob/main/GeoPappus1.pdf)
 
 
