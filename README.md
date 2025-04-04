@@ -1,12 +1,12 @@
 
 
 ### Geometrie
-- [Paul Eigenmann: Sekundarschullehrer](https://github.com/ernst-hoehener/mathe/blob/main/GeoPaulEigenmann.pdf)
-- [Geometrische Denkaufgaben: 2.Teil, Nr.9](https://github.com/ernst-hoehener/mathe/blob/main/GeoEigenmann9.pdf)
-- [Notizen zur Dreiecks-Berechnung](https://github.com/ernst-hoehener/mathe/blob/main/GeoDreieck.pdf)
-- [Pythagoras - Grundwissen rechtwinkliges Dreieck](https://github.com/ernst-hoehener/mathe/blob/main/GeoDreieck.pdf)
-- [Der Satz von Steward für Dreiecks-Transversalen](https://github.com/ernst-hoehener/mathe/blob/main/GeoSteward.pdf)
-- [Der Satz von Mene Ceva - Geometrische Addition zweier Brüche](https://github.com/ernst-hoehener/mathe/blob/main/GeoMeneCeva.pdf)
+- [Paul Eigenmann: Sekundarschullehrer]    (GeoPaulEigenmann.pdf)
+- [Geometrische Denkaufgaben: 2.Teil, Nr.9](GeoEigenmann9.pdf)
+- [Notizen zur Dreiecks-Berechnung](GeoDreieck.pdf)
+- [Pythagoras - Grundwissen rechtwinkliges Dreieck](GeoDreieck.pdf)
+- [Der Satz von Steward für Dreiecks-Transversalen](GeoSteward.pdf)
+- [Der Satz von Mene Ceva - Geometrische Addition zweier Brüche](GeoMeneCeva.pdf)
 - [Der Satz von Pappus - Beweis-Versuche](GeoPappus1.pdf)
 
 
