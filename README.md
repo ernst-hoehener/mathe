@@ -10,4 +10,4 @@
 - [Der Satz von Pappus - Beweis-Versuche](GeoPappus1.pdf)
 
 
-[Github-Markdown Syntax Help](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
