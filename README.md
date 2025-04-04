@@ -7,7 +7,7 @@
 - [Pythagoras - Grundwissen rechtwinkliges Dreieck](https://github.com/ernst-hoehener/mathe/blob/main/GeoDreieck.pdf)
 - [Der Satz von Steward für Dreiecks-Transversalen](https://github.com/ernst-hoehener/mathe/blob/main/GeoSteward.pdf)
 - [Der Satz von Mene Ceva - Geometrische Addition zweier Brüche](https://github.com/ernst-hoehener/mathe/blob/main/GeoMeneCeva.pdf)
-- [Der Satz von Pappus - Beweis-Versuche](blob/main/GeoPappus1.pdf)
+- [Der Satz von Pappus - Beweis-Versuche](GeoPappus1.pdf)
 
 
 [Github-Markdown Syntax Help](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
