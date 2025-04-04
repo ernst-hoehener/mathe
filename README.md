@@ -1,7 +1,7 @@
 
 
 ### Geometrie
-- [Paul Eigenmann: Sekundarschullehrer]    (GeoPaulEigenmann.pdf)
+- [Paul Eigenmann: Sekundarschullehrer](GeoPaulEigenmann.pdf)
 - [Geometrische Denkaufgaben: 2.Teil, Nr.9](GeoEigenmann9.pdf)
 - [Notizen zur Dreiecks-Berechnung](GeoDreieck.pdf)
 - [Pythagoras - Grundwissen rechtwinkliges Dreieck](GeoDreieck.pdf)
