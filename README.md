@@ -7,6 +7,7 @@
 - [Pythagoras - Grundwissen rechtwinkliges Dreieck](GeoDreieck.pdf)
 - [Der Satz von Steward für Dreiecks-Transversalen](GeoSteward.pdf)
 - [Der Satz von Mene Ceva - Geometrische Addition zweier Brüche](GeoMeneCeva.pdf)
+- [Der Satz von Menelaus](GeoMenelaus.pdf)
 - [Der Satz von Pappus - Beweis-Versuche](GeoPappus1.pdf)
 - [Linsenformel in der Geometrie](GeoLinsenFormel.pdf)
 
